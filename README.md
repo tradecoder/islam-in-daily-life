@@ -1,4 +1,4 @@
 # islam-in-daily-life
-Type: Android App.<br/>
+Type: Android App. (To be listed in Google play store)<br/>
 Content Language: Bangla. <br/>
-Topic: A practical and most common situational Islamic rules for daily life.  
+Topic: A practical and most common situational Islamic rules and aquidah for daily life.
